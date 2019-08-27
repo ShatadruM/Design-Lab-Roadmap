@@ -1,9 +1,8 @@
 # UI/UX Lab Roadmap
 A roadmap for Design Lab
 
-## Courses
 
-### Web Development
+## Web Development
 ##### Basics
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
@@ -20,7 +19,7 @@ A roadmap for Design Lab
 - [Bootstrap](https://www.w3schools.com/bootstrap4/default.asp)
 - [jQuery](https://www.w3schools.com/jquery/default.asp) (*Optional*)
 
-### APP Development
+## APP Development
 
 #### Languages
 
@@ -42,3 +41,8 @@ A roadmap for Design Lab
 
 
 **Some Useful Advice:** Try to explore all the options available to you as I've told before UI/UX alone wont take you further. For example if you think you are good at math try to learn Machine Learning [Here's the Roadmap of McCarthy Lab](https://github.com/NextTechLabAP/McCarthy-Lab-Roadmap)
+
+**IMPORTANT:** Make sure you upload all your work to github. Github is a must for the lab.
+#### Learn Github
+- [Git](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) - Introduction
+- [Github Desktop](https://desktop.github.com/) - Software
