@@ -29,11 +29,11 @@ A roadmap for Design Lab
 
 ## Resources for UI Development
 
-### Softwares
+#### Softwares
 - [Adobe XD](https://www.adobe.com/in/products/xd.html)
 - [GIMP](https://www.gimp.org/downloads/)
 
-### Useful Websites
+#### Useful Websites
 - [Lipsul](https://www.lipsum.com/)
 - [unDraw](https://undraw.co/)
 - [Unsplash](https://unsplash.com)
