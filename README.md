@@ -34,7 +34,7 @@ A roadmap for Design Lab
 - [GIMP](https://www.gimp.org/downloads/)
 
 #### Useful Websites
-- [Lipsul](https://www.lipsum.com/)
+- [Lipsum](https://www.lipsum.com/)
 - [unDraw](https://undraw.co/)
 - [Unsplash](https://unsplash.com)
 - [UIFaces](https://uifaces.co/)
