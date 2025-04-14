@@ -5,16 +5,17 @@
 ### Basics
 1. **HTML**  
    [Learn HTML](https://www.w3schools.com/html/default.asp)  
-   **YouTube Video:** (https://youtu.be/HGTJBPNC-Gw?si=Xkzd0UO1cycEltay)
+    **YouTube Video:** [Bro Code HTML](https://youtu.be/HD13eq_Pmp8?si=VegfRNJJgOUfsBc_)
 
 2. **CSS**  
    [Learn CSS](https://www.w3schools.com/css/default.asp)  
-   **YouTube Video:** [YouTube Video Here]
+   **YouTube Video:** [Bro Code CSS](https://youtu.be/HGTJBPNC-Gw?si=_ZmOEk2w-ngNUVHw)
 
 ### Advanced
 1. **JavaScript**  
    [Learn JavaScript](https://www.w3schools.com/js/default.asp) (*Recommended*)  
-   **YouTube Video:** [YouTube Video Here]
+    **YouTube Video:** [Bro Code JS](https://youtu.be/lfmg-EJ8gm4?si=Ek3iCQE87WL_LMQ9)
+                       [Free code camp JS](https://youtu.be/jS4aFq5-91M?si=uuIelu_mmzBbPs89)
 
 2. **Python**  
    [Learn Python](https://www.w3schools.com/python/default.asp) (*Recommended*)  
