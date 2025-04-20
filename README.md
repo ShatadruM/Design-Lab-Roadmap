@@ -19,7 +19,8 @@
 
 2. **Python**  
    [Learn Python](https://www.w3schools.com/python/default.asp) (*Recommended*)  
-   **YouTube Video:** [YouTube Video Here]
+   **YouTube Video:** [Free Code Camp Python tutorials](https://youtu.be/rfscVS0vtbw?si=wt5gqK5xoeXRJRKE)
+                      [Chai aur Code Python course](https://youtu.be/v9bOWjwdTlg?si=IYt29xdz3IxAIdWS)
 
 3. **PHP**  
    [Learn PHP](https://www.w3schools.com/php/default.asp) (*Optional*)  
@@ -33,15 +34,19 @@
 
 1. **Flask**  
    [Learn Flask](https://www.tutorialspoint.com/flask/index.htm) (*Recommended*)  
-   **YouTube Video:** [YouTube Video Here]
+   **YouTube Video:** [Free Code Camp Flask Tutorial](https://youtu.be/Qr4QMBUPxWo?si=XWaoPXWCxSJXQpUO)
+                      [Code With Harry](https://youtu.be/oA8brF3w5XQ?si=VbQ1XLWe2ulmWTWg)
 
 2. **Node.js**  
    [Learn Node.js](https://www.w3schools.com/nodejs/) (*Recommended*)  
-   **YouTube Video:** [YouTube Video Here]
+   **YouTube Video:** [Free Code Camp NodeJS Tutorial](https://youtu.be/Oe421EPjeBE?si=pbv5cE3kKspyOz1e)
+                      [Chai aur Code Complete Backend with Node](https://youtu.be/EH3vGeqeIAo?si=imo1FdLISm9JZtFo)
 
 3. **React**  
    [Learn React](https://reactjs.org/tutorial/tutorial.html) (*Recommended*)  
-   **YouTube Video:** [YouTube Video Here]
+   **YouTube Video:** [Free Code Camp ReactJS Tutorial](https://youtu.be/x4rFhThSX04?si=n90dITlrYqnIgavW)
+                      [HuXN WebDev ReactJS](https://youtu.be/qnwFpjIqsrA?si=2huA3ZjkuV3QKCDR)(*Advanced*)
+                      [Chai aur Code ReactJS](https://youtu.be/vz1RlUyrc3w?si=bMd6HRHBnwDDdJmk)
 
 4. **Bootstrap**  
    [Learn Bootstrap](https://www.w3schools.com/bootstrap4/default.asp)  
@@ -72,8 +77,10 @@
 ## Resources for UI Development
 
 ### Softwares
+-[Figma](https://www.figma.com/)
 - [Adobe XD](https://www.adobe.com/in/products/xd.html)
 - [GIMP](https://www.gimp.org/downloads/)
+- [Inkscape](https://inkscape.org/)
 
 ### Useful Websites
 - [Lipsum](https://www.lipsum.com/)
